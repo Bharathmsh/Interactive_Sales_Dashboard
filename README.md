@@ -28,8 +28,8 @@ It provides actionable insights into revenue trends, regional sales distribution
 ## 📷 Dashboard Preview  
 (Add screenshots of your Power BI dashboard here)  
 
-![Dashboard Screenshot 1](images/sales_dashboard1.png)  
-![Dashboard Screenshot 2](images/sales_dashboard2.png)  
+![Dashboard Screenshot 1](sales dashbd overview.png)  
+ 
 
 ## 📥 How to Use  
 1. Clone this repository  
