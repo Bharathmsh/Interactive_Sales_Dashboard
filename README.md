@@ -25,10 +25,9 @@ It provides actionable insights into revenue trends, regional sales distribution
 - **Data Source:** (Replace with your dataset details, e.g., Excel/SQL/CSV/Database)  
 - **Techniques Used:** Data modeling, DAX measures, calculated columns, custom KPIs, interactive visuals  
 
-## 📷 Dashboard Preview  
-(Add screenshots of your Power BI dashboard here)  
+## 📷 Dashboard Preview   
 
-![Dashboard Screenshot 1](sales dashbd overview.png)  
+![Dashboard_overview](sales_dashbd_overview.png)  
  
 
 ## 📥 How to Use  
